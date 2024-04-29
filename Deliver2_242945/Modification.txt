@@ -1,0 +1,1 @@
+In this second deliver I have modified the game by making the sheep spawn faster as time goes by, that is, the longer you are playing the game, the more sheep will appear more frequently, since they will spawn with shorter time intervals. In order to implement it, I had to modify the SheepSpawner script.
